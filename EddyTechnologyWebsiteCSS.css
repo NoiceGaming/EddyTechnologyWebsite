@@ -1,0 +1,21 @@
+﻿p {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+body{
+    background-image:url(Background.JPG);
+    background-size:cover;
+}
+
+.m{
+    margin-left: 300px;
+}
+
+.full{
+    margin-left: 250px;
+}
