@@ -46,3 +46,11 @@ body {
     color:white;
 }
 
+footer{
+    width: 1700px;
+    height: 250px;
+    background-color: black;
+    opacity: 0.6;
+    margin-left: -195px;
+    margin-top: 160px;
+}
