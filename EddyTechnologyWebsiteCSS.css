@@ -175,5 +175,12 @@ a{
     height: 75px
 }
 
+.move:hover{
+    color:white;
+    background-color:black;
+    box-shadow: 5px 10px 18px blue;
+    opacity: 0.9;
+}
+
 
 
