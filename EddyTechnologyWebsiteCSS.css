@@ -38,6 +38,11 @@ body {
         box-shadow: 5px 10px 18px blue;
     }
 
+.hover {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+}
+
 .full {
     margin-left: 250px;
     border: 3px solid black;
@@ -115,17 +120,7 @@ a{
 
 
 
-.cont {
-    width: 3000px;
-    height: 500px;
-    border: solid 3px gray;
-    margin-left: -9px;
-    background-color: gray;
-    opacity: 0.7;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 900;
-    z-index: 900;
-}
+
 
 .hide {
     opacity: 0;
