@@ -3,7 +3,11 @@
     font-weight: 700;
 }
 
-h1,h2{
+h1,h2,p{
+    font-family: 'Work Sans', sans-serif;
+}
+
+p {
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -109,8 +113,39 @@ a{
 }
 
 
-    
 
+
+.cont {
+    width: 3000px;
+    height: 500px;
+    border: solid 3px gray;
+    margin-left: -9px;
+    background-color: gray;
+    opacity: 0.7;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    z-index: 900;
+}
+
+.hide {
+    opacity: 0;
+    width: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    z-index: 1000;
+    position: absolute;
+}
+
+    .hide:hover {
+        opacity: 1;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 900;
+        z-index: 1000;
+        position: absolute;
+    }
+
+.hover {
+    z-index: 1000;
 }
 
 
