@@ -14,5 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Go to discussion or email me here: noicegamingpros@gmail.com
-My Discord Server: https://discord.gg/WD5kzScm4G
+Go to discussion or my Discord Server: https://discord.gg/WD5kzScm4G
