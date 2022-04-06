@@ -15,7 +15,7 @@ body {
     background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
     background-size: cover;
     overflow: hidden;
-    cursor: url('C:\Users\edwar\OneDrive\Desktop\EddyTechnologyWebsite\cursor.cur'), auto;
+   
 }
 
 .m {
@@ -188,6 +188,8 @@ a{
     box-shadow: 5px 10px 18px blue;
     opacity: 0.9;
 }
+
+
 
 
 

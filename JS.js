@@ -1,3 +1,7 @@
+
+
+
+
 let number = Math.random()
 alert("To show that you are not a bot copy the number you are going to be shown and then please, paste it in. ")
 alert(number)
